@@ -1,0 +1,87 @@
+,organ,tissue_type,cell_type,cell_type_ontology_id,disease,sex,ethnicity,development_stage,count
+0,lung,lung epithelium,FOXN4+ cells,unknown,normal,unknown,unknown,human adult stage,57
+1,lung,lung epithelium,basal cell,CL:0000646,normal,unknown,unknown,human adult stage,6721
+2,lung,lung epithelium,ciliated cell,CL:0000064,normal,unknown,unknown,human adult stage,2057
+3,lung,lung epithelium,secretory cell,CL:0000151,normal,unknown,unknown,human adult stage,10526
+24,lung,lung,basal cell,CL:0000646,normal,female,unknown,human adult stage,2188
+25,lung,lung,club cell,CL:0000158,normal,female,unknown,human adult stage,1038
+26,lung,lung,lung ciliated cell,CL:1000271,normal,female,unknown,human adult stage,602
+27,lung,lung,pulmonary ionocyte,CL:0017000,normal,female,unknown,human adult stage,19
+28,lung,lung,respiratory goblet cell,CL:0002370,normal,male;female,unknown,human adult stage,762
+29,lung,lung,serous cell of epithelium of bronchus,CL:1000331,normal,female,unknown,human adult stage,15
+30,lung,lung,type I pneumocyte,CL:0002062,normal,female,unknown,human adult stage,211
+31,lung,lung,type II pneumocyte,CL:0002063,normal,male;female,unknown,human adult stage,9146
+0,lung,lung epithelium (cell culture),unknown,unknown,normal,unknown,na,unknown,16512
+10,lung,lung,"CD4-positive, alpha-beta T cell",CL:0000624,normal,male,European;Hispanic or Latin American,65-year-old human stage;52-year-old human stage,1993
+11,lung,lung,"CD4-positive, alpha-beta thymocyte",CL:0000810,normal,male,European;Hispanic or Latin American,65-year-old human stage;52-year-old human stage,3056
+12,lung,lung,"CD8-positive, alpha-beta T cell",CL:0000625,normal,male,European;Hispanic or Latin American,65-year-old human stage;52-year-old human stage,2391
+13,lung,lung,"CD8-positive, alpha-beta thymocyte",CL:0000811,normal,male,European;Hispanic or Latin American,65-year-old human stage;52-year-old human stage,3350
+14,lung,lung,immature alpha-beta T cell,CL:0000790,normal,male,European;Hispanic or Latin American,65-year-old human stage;52-year-old human stage,171
+15,lung,lung,mature alpha-beta T cell,CL:0000791,normal,male,European;Hispanic or Latin American,65-year-old human stage;52-year-old human stage,98
+11,lung,lung,blood vessel endothelial cell,CL:0000071,normal,male,unknown,human adult stage,47
+12,lung,lung,capillary endothelial cell,CL:0002144,normal,female,unknown,human adult stage,1534
+13,lung,lung,endothelial cell of artery,CL:1000413,normal,female,unknown,human adult stage,187
+14,lung,lung,endothelial cell of lymphatic vessel,CL:0002138,normal,female,unknown,human adult stage,47
+15,lung,lung,lung microvascular endothelial cell,CL:2000016,normal,female,unknown,human adult stage,485
+16,lung,lung,vein endothelial cell,CL:0002543,normal,female,unknown,human adult stage,508
+0,lung,lung epithelium (cell culture),unknown,unknown,normal,unknown,na,unknown,16218
+21,lung,lung,adventitial cell,CL:0002503,normal,male;female,unknown,human adult stage,373
+22,lung,lung,bronchial smooth muscle cell,CL:0002598,normal,female,unknown,human adult stage,81
+23,lung,lung,fibroblast,CL:0000057,normal,female,unknown,human adult stage,336
+24,lung,lung,mesothelial cell,CL:0000077,normal,female,unknown,human adult stage,17
+25,lung,lung,myofibroblast cell,CL:0000186,normal,female,unknown,human adult stage,10
+26,lung,lung,pericyte cell,CL:0000669,normal,female,unknown,human adult stage,213
+27,lung,lung,smooth muscle cell,CL:0000192,normal,male,unknown,human adult stage,25
+28,lung,lung,vascular associated smooth muscle cell,CL:0000359,normal,female,unknown,human adult stage,80
+88,lung,lung,B cell,CL:0000236,normal,female,unknown,human adult stage,87
+89,lung,lung,"CD4-positive, alpha-beta T cell",CL:0000624,normal,female,unknown,human adult stage,543
+90,lung,lung,"CD8-positive, alpha-beta T cell",CL:0000625,normal,female,unknown,human adult stage,552
+91,lung,lung,basophil,CL:0000767,normal,female,unknown,human adult stage,686
+92,lung,lung,classical monocyte,CL:0000860,normal,female,unknown,human adult stage,1487
+93,lung,lung,dendritic cell,CL:0000451,normal,female,unknown,human adult stage,316
+94,lung,lung,"effector CD4-positive, alpha-beta T cell",CL:0001044,normal,male,unknown,human adult stage,132
+95,lung,lung,"effector CD8-positive, alpha-beta T cell",CL:0001050,normal,male,unknown,human adult stage,80
+96,lung,lung,intermediate monocyte,CL:0002393,normal,female,unknown,human adult stage,252
+97,lung,lung,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,12160
+98,lung,lung,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,132
+99,lung,lung,neutrophil,CL:0000775,normal,male;female,unknown,human adult stage,174
+100,lung,lung,non-classical monocyte,CL:0000875,normal,female,unknown,human adult stage,1005
+101,lung,lung,plasma cell,CL:0000786,normal,female,unknown,human adult stage,134
+102,lung,lung,plasmacytoid dendritic cell,CL:0000784,normal,female,unknown,human adult stage,18
+144,lung,lung,B cell,CL:0000236,normal,female,unknown,human adult stage,87
+145,lung,lung,"CD4-positive, alpha-beta T cell",CL:0000624,normal,female,unknown,human adult stage,543
+146,lung,lung,"CD8-positive, alpha-beta T cell",CL:0000625,normal,female,unknown,human adult stage,552
+147,lung,lung,adventitial cell,CL:0002503,normal,male;female,unknown,human adult stage,373
+148,lung,lung,basal cell,CL:0000646,normal,female,unknown,human adult stage,2188
+149,lung,lung,basophil,CL:0000767,normal,female,unknown,human adult stage,686
+150,lung,lung,blood vessel endothelial cell,CL:0000071,normal,male,unknown,human adult stage,47
+151,lung,lung,bronchial smooth muscle cell,CL:0002598,normal,female,unknown,human adult stage,81
+152,lung,lung,capillary endothelial cell,CL:0002144,normal,female,unknown,human adult stage,1534
+153,lung,lung,classical monocyte,CL:0000860,normal,female,unknown,human adult stage,1487
+154,lung,lung,club cell,CL:0000158,normal,female,unknown,human adult stage,1038
+155,lung,lung,dendritic cell,CL:0000451,normal,female,unknown,human adult stage,316
+156,lung,lung,"effector CD4-positive, alpha-beta T cell",CL:0001044,normal,male,unknown,human adult stage,132
+157,lung,lung,"effector CD8-positive, alpha-beta T cell",CL:0001050,normal,male,unknown,human adult stage,80
+158,lung,lung,endothelial cell of artery,CL:1000413,normal,female,unknown,human adult stage,187
+159,lung,lung,endothelial cell of lymphatic vessel,CL:0002138,normal,female,unknown,human adult stage,47
+160,lung,lung,fibroblast,CL:0000057,normal,female,unknown,human adult stage,336
+161,lung,lung,intermediate monocyte,CL:0002393,normal,female,unknown,human adult stage,252
+162,lung,lung,lung ciliated cell,CL:1000271,normal,female,unknown,human adult stage,602
+163,lung,lung,lung microvascular endothelial cell,CL:2000016,normal,female,unknown,human adult stage,485
+164,lung,lung,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,12160
+165,lung,lung,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,132
+166,lung,lung,mesothelial cell,CL:0000077,normal,female,unknown,human adult stage,17
+167,lung,lung,myofibroblast cell,CL:0000186,normal,female,unknown,human adult stage,10
+168,lung,lung,neutrophil,CL:0000775,normal,male;female,unknown,human adult stage,174
+169,lung,lung,non-classical monocyte,CL:0000875,normal,female,unknown,human adult stage,1005
+170,lung,lung,pericyte cell,CL:0000669,normal,female,unknown,human adult stage,213
+171,lung,lung,plasma cell,CL:0000786,normal,female,unknown,human adult stage,134
+172,lung,lung,plasmacytoid dendritic cell,CL:0000784,normal,female,unknown,human adult stage,18
+173,lung,lung,pulmonary ionocyte,CL:0017000,normal,female,unknown,human adult stage,19
+174,lung,lung,respiratory goblet cell,CL:0002370,normal,male;female,unknown,human adult stage,762
+175,lung,lung,serous cell of epithelium of bronchus,CL:1000331,normal,female,unknown,human adult stage,15
+176,lung,lung,smooth muscle cell,CL:0000192,normal,male,unknown,human adult stage,25
+177,lung,lung,type I pneumocyte,CL:0002062,normal,female,unknown,human adult stage,211
+178,lung,lung,type II pneumocyte,CL:0002063,normal,male;female,unknown,human adult stage,9146
+179,lung,lung,vascular associated smooth muscle cell,CL:0000359,normal,female,unknown,human adult stage,80
+180,lung,lung,vein endothelial cell,CL:0002543,normal,female,unknown,human adult stage,508

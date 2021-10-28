@@ -1,0 +1,15 @@
+,organ,tissue_type,cell_type,cell_type_ontology_id,disease,sex,ethnicity,development_stage,count
+11,kidney,kidney,kidney epithelial cell,CL:0002518,normal,female,unknown,human adult stage,8331
+7,kidney,kidney,endothelial cell,CL:0000115,normal,female,unknown,human adult stage,95
+68,kidney,kidney,B cell,CL:0000236,normal,female,unknown,human adult stage,341
+69,kidney,kidney,CD4-positive helper T cell,CL:0000492,normal,female,unknown,human adult stage,181
+70,kidney,kidney,"CD8-positive, alpha-beta T cell",CL:0000625,normal,female,unknown,human adult stage,241
+71,kidney,kidney,macrophage,CL:0000235,normal,female,unknown,human adult stage,321
+72,kidney,kidney,mature NK T cell,CL:0000814,normal,female,unknown,human adult stage,131
+105,kidney,kidney,B cell,CL:0000236,normal,female,unknown,human adult stage,341
+106,kidney,kidney,CD4-positive helper T cell,CL:0000492,normal,female,unknown,human adult stage,181
+107,kidney,kidney,"CD8-positive, alpha-beta T cell",CL:0000625,normal,female,unknown,human adult stage,241
+108,kidney,kidney,endothelial cell,CL:0000115,normal,female,unknown,human adult stage,95
+109,kidney,kidney,kidney epithelial cell,CL:0002518,normal,female,unknown,human adult stage,8331
+110,kidney,kidney,macrophage,CL:0000235,normal,female,unknown,human adult stage,321
+111,kidney,kidney,mature NK T cell,CL:0000814,normal,female,unknown,human adult stage,131

@@ -1,0 +1,459 @@
+,organ,tissue_type,cell_type,cell_type_ontology_id,disease,sex,ethnicity,development_stage,count
+0,skin,adipose tissue,B cell,CL:0000236,normal,male,unknown,human adult stage,23
+1,skin,adipose tissue,T cell,CL:0000084,normal,male,unknown,human adult stage,1715
+2,skin,adipose tissue,endothelial cell,CL:0000115,normal,male,unknown,human adult stage,3748
+3,skin,adipose tissue,fibroblast,CL:0000057,normal,male,unknown,human adult stage,8459
+4,skin,adipose tissue,leukocyte,CL:0000738,normal,male,unknown,human adult stage,160
+5,skin,adipose tissue,macrophage,CL:0000235,normal,male,unknown,human adult stage,2807
+6,skin,adipose tissue,mast cell,CL:0000097,normal,male,unknown,human adult stage,4
+7,skin,adipose tissue,mature NK T cell,CL:0000814,normal,male,unknown,human adult stage,572
+8,skin,adipose tissue,mesenchymal stem cell,CL:0000134,normal,male,unknown,human adult stage,1311
+9,skin,adipose tissue,myofibroblast cell,CL:0000186,normal,male,unknown,human adult stage,982
+10,skin,adipose tissue,neutrophil,CL:0000775,normal,male,unknown,human adult stage,440
+11,skin,adipose tissue,plasma cell,CL:0000786,normal,male,unknown,human adult stage,26
+12,skin,adipose tissue,smooth muscle cell,CL:0000192,normal,male,unknown,human adult stage,16
+13,urinary bladder,bladder organ,B cell,CL:0000236,normal,female,unknown,human adult stage,251
+14,urinary bladder,bladder organ,T cell,CL:0000084,normal,female,unknown,human adult stage,2626
+15,urinary bladder,bladder organ,bladder urothelial cell,CL:1001428,normal,female,unknown,human adult stage,2873
+16,urinary bladder,bladder organ,capillary endothelial cell,CL:0002144,normal,female,unknown,human adult stage,66
+17,urinary bladder,bladder organ,endothelial cell of lymphatic vessel,CL:0002138,normal,female,unknown,human adult stage,73
+18,urinary bladder,bladder organ,fibroblast,CL:0000057,normal,female,unknown,human adult stage,4927
+19,urinary bladder,bladder organ,macrophage,CL:0000235,normal,female,unknown,human adult stage,4876
+20,urinary bladder,bladder organ,mast cell,CL:0000097,normal,female,unknown,human adult stage,991
+21,urinary bladder,bladder organ,mature NK T cell,CL:0000814,normal,female,unknown,human adult stage,485
+22,urinary bladder,bladder organ,myofibroblast cell,CL:0000186,normal,female,unknown,human adult stage,1989
+23,urinary bladder,bladder organ,pericyte cell,CL:0000669,normal,female,unknown,human adult stage,708
+24,urinary bladder,bladder organ,plasma cell,CL:0000786,normal,female,unknown,human adult stage,1141
+25,urinary bladder,bladder organ,plasmacytoid dendritic cell,CL:0000784,normal,female,unknown,human adult stage,18
+26,urinary bladder,bladder organ,smooth muscle cell,CL:0000192,normal,female,unknown,human adult stage,227
+27,urinary bladder,bladder organ,vein endothelial cell,CL:0002543,normal,female,unknown,human adult stage,266
+28,blood,blood,CD141-positive myeloid dendritic cell,CL:0002394,normal,male;female,unknown,human adult stage,15
+29,blood,blood,"CD4-positive, alpha-beta T cell",CL:0000624,normal,female,unknown,human adult stage,2863
+30,blood,blood,"CD4-positive, alpha-beta memory T cell",CL:0000897,normal,male;female,unknown,human adult stage,949
+31,blood,blood,"CD8-positive, alpha-beta T cell",CL:0000625,normal,male;female,unknown,human adult stage,1322
+32,blood,blood,"CD8-positive, alpha-beta cytokine secreting effector T cell",CL:0000908,normal,male;female,unknown,human adult stage,1493
+33,blood,blood,alpha-beta T cell,CL:0000789,normal,female,unknown,human adult stage,31
+34,blood,blood,basophil,CL:0000767,normal,male;female,unknown,human adult stage,29
+35,blood,blood,classical monocyte,CL:0000860,normal,male;female,unknown,human adult stage,7211
+36,blood,blood,common myeloid progenitor,CL:0000049,normal,female,unknown,human adult stage,3
+37,blood,blood,erythrocyte,CL:0000232,normal,male;female,unknown,human adult stage,10484
+38,blood,blood,granulocyte,CL:0000094,normal,female,unknown,human adult stage,2
+39,blood,blood,hematopoietic stem cell,CL:0000037,normal,male;female,unknown,human adult stage,70
+40,blood,blood,macrophage,CL:0000235,normal,female,unknown,human adult stage,488
+41,blood,blood,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,2948
+42,blood,blood,memory B cell,CL:0000787,normal,male;female,unknown,human adult stage,854
+43,blood,blood,monocyte,CL:0000576,normal,female,unknown,human adult stage,8972
+44,blood,blood,naive B cell,CL:0000788,normal,male;female,unknown,human adult stage,2239
+45,blood,blood,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,normal,male;female,unknown,human adult stage,412
+46,blood,blood,neutrophil,CL:0000775,normal,male;female,unknown,human adult stage,8456
+47,blood,blood,non-classical monocyte,CL:0000875,normal,male;female,unknown,human adult stage,8
+48,blood,blood,plasma cell,CL:0000786,normal,male;female,unknown,human adult stage,488
+49,blood,blood,plasmablast,CL:0000980,normal,female,unknown,human adult stage,10
+50,blood,blood,plasmacytoid dendritic cell,CL:0000784,normal,male;female,unknown,human adult stage,11
+51,blood,blood,platelet,CL:0000233,normal,male;female,unknown,human adult stage,239
+52,blood,blood,type I NK T cell,CL:0000921,normal,male;female,unknown,human adult stage,518
+53,bone marrow,bone marrow,"CD4-positive, alpha-beta T cell",CL:0000624,normal,male;female,unknown,human adult stage,2025
+54,bone marrow,bone marrow,"CD8-positive, alpha-beta T cell",CL:0000625,normal,male;female,unknown,human adult stage,1147
+55,bone marrow,bone marrow,common myeloid progenitor,CL:0000049,normal,male;female,unknown,human adult stage,287
+56,bone marrow,bone marrow,erythrocyte,CL:0000232,normal,male,unknown,human adult stage,87
+57,bone marrow,bone marrow,erythroid progenitor cell,CL:0000038,normal,male;female,unknown,human adult stage,757
+58,bone marrow,bone marrow,granulocyte,CL:0000094,normal,male;female,unknown,human adult stage,853
+59,bone marrow,bone marrow,hematopoietic stem cell,CL:0000037,normal,male;female,unknown,human adult stage,617
+60,bone marrow,bone marrow,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,265
+61,bone marrow,bone marrow,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,678
+62,bone marrow,bone marrow,memory B cell,CL:0000787,normal,male;female,unknown,human adult stage,310
+63,bone marrow,bone marrow,monocyte,CL:0000576,normal,male;female,unknown,human adult stage,1389
+64,bone marrow,bone marrow,naive B cell,CL:0000788,normal,male;female,unknown,human adult stage,142
+65,bone marrow,bone marrow,neutrophil,CL:0000775,normal,male;female,unknown,human adult stage,2911
+66,bone marrow,bone marrow,plasma cell,CL:0000786,normal,male;female,unknown,human adult stage,825
+67,bone marrow,bone marrow,plasmablast,CL:0000980,normal,male;female,unknown,human adult stage,4
+68,eye,eye,B cell,CL:0000236,normal,male;female,unknown,human adult stage,102
+69,eye,eye,"CD4-positive, alpha-beta T cell",CL:0000624,normal,male;female,unknown,human adult stage,23
+70,eye,eye,"CD8-positive, alpha-beta T cell",CL:0000625,normal,male;female,unknown,human adult stage,8
+71,eye,eye,Muller cell,CL:0011107,normal,male;female,unknown,human adult stage,360
+72,eye,eye,T cell,CL:0000084,normal,male;female,unknown,human adult stage,237
+73,eye,eye,conjunctival epithelial cell,CL:1000432,normal,male;female,unknown,human adult stage,4587
+74,eye,eye,corneal epithelial cell,CL:0000575,normal,male;female,unknown,human adult stage,1488
+75,eye,eye,dendritic cell,CL:0000451,normal,male;female,unknown,human adult stage,182
+76,eye,eye,endothelial cell,CL:0000115,normal,male;female,unknown,human adult stage,105
+77,eye,eye,epithelial cell of lacrimal sac,CL:1000436,normal,female,unknown,human adult stage,52
+78,eye,eye,erythroid lineage cell,CL:0000764,normal,male;female,unknown,human adult stage,30
+79,eye,eye,eye photoreceptor cell,CL:0000287,normal,male;female,unknown,human adult stage,891
+80,eye,eye,fat cell,CL:0000136,normal,male,unknown,human adult stage,44
+81,eye,eye,fibroblast,CL:0000057,normal,male;female,unknown,human adult stage,95
+82,eye,eye,keratocyte,CL:0002363,normal,male;female,unknown,human adult stage,595
+83,eye,eye,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,108
+84,eye,eye,mast cell,CL:0000097,normal,male;female,unknown,human adult stage,5
+85,eye,eye,melanocyte,CL:0000148,normal,male;female,unknown,human adult stage,144
+86,eye,eye,microglial cell,CL:0000129,normal,male;female,unknown,human adult stage,209
+87,eye,eye,monocyte,CL:0000576,normal,male;female,unknown,human adult stage,44
+88,eye,eye,pigmented ciliary epithelial cell,CL:0002303,normal,male;female,unknown,human adult stage,17
+89,eye,eye,plasma cell,CL:0000786,normal,male;female,unknown,human adult stage,46
+90,eye,eye,radial glial cell,CL:0000681,normal,male;female,unknown,human adult stage,195
+91,eye,eye,retina horizontal cell,CL:0000745,normal,male;female,unknown,human adult stage,6
+92,eye,eye,retinal bipolar neuron,CL:0000748,normal,male;female,unknown,human adult stage,34
+93,eye,eye,retinal blood vessel endothelial cell,CL:0002585,normal,male;female,unknown,human adult stage,466
+94,eye,eye,retinal ganglion cell,CL:0000740,normal,male,unknown,human adult stage,5
+95,eye,eye,retinal pigment epithelial cell,CL:0002586,normal,female,unknown,human adult stage,49
+96,eye,eye,stem cell,CL:0000034,normal,male;female,unknown,human adult stage,144
+97,eye,eye,stromal cell,CL:0000499,normal,male;female,unknown,human adult stage,325
+98,eye,eye,surface ectodermal cell,CL:0000114,normal,male;female,unknown,human adult stage,54
+99,heart,heart,cardiac endothelial cell,CL:0010008,normal,male,unknown,human adult stage,2665
+100,heart,heart,cardiac muscle cell,CL:0000746,normal,male,unknown,human adult stage,7205
+101,heart,heart,fibroblast of cardiac tissue,CL:0002548,normal,male,unknown,human adult stage,250
+102,heart,heart,hepatocyte,CL:0000182,normal,male,unknown,human adult stage,1089
+103,heart,heart,macrophage,CL:0000235,normal,male,unknown,human adult stage,74
+104,heart,heart,smooth muscle cell,CL:0000192,normal,male,unknown,human adult stage,222
+105,kidney,kidney,B cell,CL:0000236,normal,female,unknown,human adult stage,341
+106,kidney,kidney,CD4-positive helper T cell,CL:0000492,normal,female,unknown,human adult stage,181
+107,kidney,kidney,"CD8-positive, alpha-beta T cell",CL:0000625,normal,female,unknown,human adult stage,241
+108,kidney,kidney,endothelial cell,CL:0000115,normal,female,unknown,human adult stage,95
+109,kidney,kidney,kidney epithelial cell,CL:0002518,normal,female,unknown,human adult stage,8331
+110,kidney,kidney,macrophage,CL:0000235,normal,female,unknown,human adult stage,321
+111,kidney,kidney,mature NK T cell,CL:0000814,normal,female,unknown,human adult stage,131
+112,large intestine,large intestine,B cell,CL:0000236,normal,male;female,unknown,human adult stage,497
+113,large intestine,large intestine,"CD4-positive, alpha-beta T cell",CL:0000624,normal,male,unknown,human adult stage,2872
+114,large intestine,large intestine,"CD8-positive, alpha-beta T cell",CL:0000625,normal,male;female,unknown,human adult stage,2147
+115,large intestine,large intestine,enterocyte,CL:0000584,normal,female,unknown,human adult stage,1464
+116,large intestine,large intestine,enterocyte of epithelium of large intestine,CL:0002071,normal,male,unknown,human adult stage,2764
+117,large intestine,large intestine,fibroblast,CL:0000057,normal,male;female,unknown,human adult stage,953
+118,large intestine,large intestine,goblet cell,CL:0000160,normal,female,unknown,human adult stage,166
+119,large intestine,large intestine,gut endothelial cell,CL:0000131,normal,male;female,unknown,human adult stage,53
+120,large intestine,large intestine,intestinal crypt stem cell,CL:0002250,normal,female,unknown,human adult stage,143
+121,large intestine,large intestine,intestinal crypt stem cell of large intestine,CL:0009016,normal,male,unknown,human adult stage,114
+122,large intestine,large intestine,intestinal enteroendocrine cell,CL:1001516,normal,male;female,unknown,human adult stage,55
+123,large intestine,large intestine,intestinal tuft cell,CL:0019032,normal,male;female,unknown,human adult stage,33
+124,large intestine,large intestine,large intestine goblet cell,CL:1000320,normal,male,unknown,human adult stage,385
+125,large intestine,large intestine,mast cell,CL:0000097,normal,male,unknown,human adult stage,38
+126,large intestine,large intestine,monocyte,CL:0000576,normal,male,unknown,human adult stage,543
+127,large intestine,large intestine,neutrophil,CL:0000775,normal,male;female,unknown,human adult stage,27
+128,large intestine,large intestine,paneth cell of epithelium of large intestine,CL:0009009,normal,male;female,unknown,human adult stage,888
+129,large intestine,large intestine,plasma cell,CL:0000786,normal,male,unknown,human adult stage,330
+130,large intestine,large intestine,transit amplifying cell of large intestine,CL:0009011,normal,male;female,unknown,human adult stage,208
+131,liver,liver,T cell,CL:0000084,normal,male,unknown,human adult stage,146
+132,liver,liver,endothelial cell,CL:0000115,normal,male,unknown,human adult stage,267
+133,liver,liver,endothelial cell of hepatic sinusoid,CL:1000398,normal,male,unknown,human adult stage,421
+134,liver,liver,erythrocyte,CL:0000232,normal,male,unknown,human adult stage,108
+135,liver,liver,fibroblast,CL:0000057,normal,male,unknown,human adult stage,76
+136,liver,liver,hepatocyte,CL:0000182,normal,male,unknown,human adult stage,1558
+137,liver,liver,intrahepatic cholangiocyte,CL:0002538,normal,male,unknown,human adult stage,42
+138,liver,liver,liver dendritic cell,CL:2000055,normal,male,unknown,human adult stage,34
+139,liver,liver,macrophage,CL:0000235,normal,male,unknown,human adult stage,1381
+140,liver,liver,mature NK T cell,CL:0000814,normal,male,unknown,human adult stage,245
+141,liver,liver,monocyte,CL:0000576,normal,male,unknown,human adult stage,612
+142,liver,liver,neutrophil,CL:0000775,normal,male,unknown,human adult stage,83
+143,liver,liver,plasma cell,CL:0000786,normal,male,unknown,human adult stage,34
+144,lung,lung,B cell,CL:0000236,normal,female,unknown,human adult stage,87
+145,lung,lung,"CD4-positive, alpha-beta T cell",CL:0000624,normal,female,unknown,human adult stage,543
+146,lung,lung,"CD8-positive, alpha-beta T cell",CL:0000625,normal,female,unknown,human adult stage,552
+147,lung,lung,adventitial cell,CL:0002503,normal,male;female,unknown,human adult stage,373
+148,lung,lung,basal cell,CL:0000646,normal,female,unknown,human adult stage,2188
+149,lung,lung,basophil,CL:0000767,normal,female,unknown,human adult stage,686
+150,lung,lung,blood vessel endothelial cell,CL:0000071,normal,male,unknown,human adult stage,47
+151,lung,lung,bronchial smooth muscle cell,CL:0002598,normal,female,unknown,human adult stage,81
+152,lung,lung,capillary endothelial cell,CL:0002144,normal,female,unknown,human adult stage,1534
+153,lung,lung,classical monocyte,CL:0000860,normal,female,unknown,human adult stage,1487
+154,lung,lung,club cell,CL:0000158,normal,female,unknown,human adult stage,1038
+155,lung,lung,dendritic cell,CL:0000451,normal,female,unknown,human adult stage,316
+156,lung,lung,"effector CD4-positive, alpha-beta T cell",CL:0001044,normal,male,unknown,human adult stage,132
+157,lung,lung,"effector CD8-positive, alpha-beta T cell",CL:0001050,normal,male,unknown,human adult stage,80
+158,lung,lung,endothelial cell of artery,CL:1000413,normal,female,unknown,human adult stage,187
+159,lung,lung,endothelial cell of lymphatic vessel,CL:0002138,normal,female,unknown,human adult stage,47
+160,lung,lung,fibroblast,CL:0000057,normal,female,unknown,human adult stage,336
+161,lung,lung,intermediate monocyte,CL:0002393,normal,female,unknown,human adult stage,252
+162,lung,lung,lung ciliated cell,CL:1000271,normal,female,unknown,human adult stage,602
+163,lung,lung,lung microvascular endothelial cell,CL:2000016,normal,female,unknown,human adult stage,485
+164,lung,lung,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,12160
+165,lung,lung,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,132
+166,lung,lung,mesothelial cell,CL:0000077,normal,female,unknown,human adult stage,17
+167,lung,lung,myofibroblast cell,CL:0000186,normal,female,unknown,human adult stage,10
+168,lung,lung,neutrophil,CL:0000775,normal,male;female,unknown,human adult stage,174
+169,lung,lung,non-classical monocyte,CL:0000875,normal,female,unknown,human adult stage,1005
+170,lung,lung,pericyte cell,CL:0000669,normal,female,unknown,human adult stage,213
+171,lung,lung,plasma cell,CL:0000786,normal,female,unknown,human adult stage,134
+172,lung,lung,plasmacytoid dendritic cell,CL:0000784,normal,female,unknown,human adult stage,18
+173,lung,lung,pulmonary ionocyte,CL:0017000,normal,female,unknown,human adult stage,19
+174,lung,lung,respiratory goblet cell,CL:0002370,normal,male;female,unknown,human adult stage,762
+175,lung,lung,serous cell of epithelium of bronchus,CL:1000331,normal,female,unknown,human adult stage,15
+176,lung,lung,smooth muscle cell,CL:0000192,normal,male,unknown,human adult stage,25
+177,lung,lung,type I pneumocyte,CL:0002062,normal,female,unknown,human adult stage,211
+178,lung,lung,type II pneumocyte,CL:0002063,normal,male;female,unknown,human adult stage,9146
+179,lung,lung,vascular associated smooth muscle cell,CL:0000359,normal,female,unknown,human adult stage,80
+180,lung,lung,vein endothelial cell,CL:0002543,normal,female,unknown,human adult stage,508
+181,lymph node,lymph node,B cell,CL:0000236,normal,male;female,unknown,human adult stage,15249
+182,lymph node,lymph node,CD141-positive myeloid dendritic cell,CL:0002394,normal,male;female,unknown,human adult stage,101
+183,lymph node,lymph node,CD1c-positive myeloid dendritic cell,CL:0002399,normal,male;female,unknown,human adult stage,90
+184,lymph node,lymph node,"CD4-positive, alpha-beta memory T cell",CL:0000897,normal,female,unknown,human adult stage,1434
+185,lymph node,lymph node,"CD8-positive, alpha-beta memory T cell",CL:0000909,normal,female,unknown,human adult stage,864
+186,lymph node,lymph node,T cell,CL:0000084,normal,male;female,unknown,human adult stage,3848
+187,lymph node,lymph node,classical monocyte,CL:0000860,normal,male;female,unknown,human adult stage,246
+188,lymph node,lymph node,"effector CD4-positive, alpha-beta T cell",CL:0001044,normal,male;female,unknown,human adult stage,6908
+189,lymph node,lymph node,"effector CD8-positive, alpha-beta T cell",CL:0001050,normal,male;female,unknown,human adult stage,5860
+190,lymph node,lymph node,endothelial cell,CL:0000115,normal,male;female,unknown,human adult stage,158
+191,lymph node,lymph node,erythrocyte,CL:0000232,normal,male;female,unknown,human adult stage,24
+192,lymph node,lymph node,hematopoietic stem cell,CL:0000037,normal,male;female,unknown,human adult stage,34
+193,lymph node,lymph node,innate lymphoid cell,CL:0001065,normal,male;female,unknown,human adult stage,2420
+194,lymph node,lymph node,intermediate monocyte,CL:0002393,normal,male;female,unknown,human adult stage,306
+195,lymph node,lymph node,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,1148
+196,lymph node,lymph node,mast cell,CL:0000097,normal,male;female,unknown,human adult stage,143
+197,lymph node,lymph node,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,683
+198,lymph node,lymph node,mature conventional dendritic cell,CL:0000841,normal,male;female,unknown,human adult stage,17
+199,lymph node,lymph node,memory B cell,CL:0000787,normal,female,unknown,human adult stage,3319
+200,lymph node,lymph node,naive B cell,CL:0000788,normal,female,unknown,human adult stage,1335
+201,lymph node,lymph node,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,normal,female,unknown,human adult stage,1499
+202,lymph node,lymph node,neutrophil,CL:0000775,normal,male;female,unknown,human adult stage,107
+203,lymph node,lymph node,non-classical monocyte,CL:0000875,normal,male;female,unknown,human adult stage,31
+204,lymph node,lymph node,plasma cell,CL:0000786,normal,male;female,unknown,human adult stage,2687
+205,lymph node,lymph node,plasmacytoid dendritic cell,CL:0000784,normal,female,unknown,human adult stage,6
+206,lymph node,lymph node,regulatory T cell,CL:0000815,normal,male;female,unknown,human adult stage,889
+207,lymph node,lymph node,stromal cell,CL:0000499,normal,male;female,unknown,human adult stage,111
+208,lymph node,lymph node,type I NK T cell,CL:0000921,normal,male;female,unknown,human adult stage,3758
+209,mammary gland,mammary gland,B cell,CL:0000236,normal,female,unknown,human adult stage,43
+210,mammary gland,mammary gland,T cell,CL:0000084,normal,female,unknown,human adult stage,2324
+211,mammary gland,mammary gland,basal cell,CL:0000646,normal,female,unknown,human adult stage,476
+212,mammary gland,mammary gland,endothelial cell of artery,CL:1000413,normal,female,unknown,human adult stage,168
+213,mammary gland,mammary gland,endothelial cell of lymphatic vessel,CL:0002138,normal,female,unknown,human adult stage,32
+214,mammary gland,mammary gland,fibroblast of breast,CL:4006000,normal,female,unknown,human adult stage,2066
+215,mammary gland,mammary gland,luminal epithelial cell of mammary gland,CL:0002326,normal,female,unknown,human adult stage,5378
+216,mammary gland,mammary gland,macrophage,CL:0000235,normal,female,unknown,human adult stage,219
+217,mammary gland,mammary gland,mast cell,CL:0000097,normal,female,unknown,human adult stage,16
+218,mammary gland,mammary gland,mature NK T cell,CL:0000814,normal,female,unknown,human adult stage,19
+219,mammary gland,mammary gland,pericyte cell,CL:0000669,normal,female,unknown,human adult stage,106
+220,mammary gland,mammary gland,plasma cell,CL:0000786,normal,female,unknown,human adult stage,194
+221,mammary gland,mammary gland,vascular associated smooth muscle cell,CL:0000359,normal,female,unknown,human adult stage,71
+222,mammary gland,mammary gland,vein endothelial cell,CL:0002543,normal,female,unknown,human adult stage,263
+223,muscle tissue,muscle tissue,"CD4-positive, alpha-beta T cell",CL:0000624,normal,male;female,unknown,human adult stage,221
+224,muscle tissue,muscle tissue,"CD8-positive, alpha-beta T cell",CL:0000625,normal,male;female,unknown,human adult stage,536
+225,muscle tissue,muscle tissue,T cell,CL:0000084,normal,male;female,unknown,human adult stage,407
+226,muscle tissue,muscle tissue,capillary endothelial cell,CL:0002144,normal,male;female,unknown,human adult stage,2015
+227,muscle tissue,muscle tissue,endothelial cell of artery,CL:1000413,normal,male;female,unknown,human adult stage,133
+228,muscle tissue,muscle tissue,endothelial cell of lymphatic vessel,CL:0002138,normal,male;female,unknown,human adult stage,134
+229,muscle tissue,muscle tissue,endothelial cell of vascular tree,CL:0002139,normal,male;female,unknown,human adult stage,3602
+230,muscle tissue,muscle tissue,erythrocyte,CL:0000232,normal,male;female,unknown,human adult stage,20
+231,muscle tissue,muscle tissue,fast muscle cell,CL:0000190,normal,male;female,unknown,human adult stage,266
+232,muscle tissue,muscle tissue,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,1989
+233,muscle tissue,muscle tissue,mast cell,CL:0000097,normal,male;female,unknown,human adult stage,46
+234,muscle tissue,muscle tissue,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,137
+235,muscle tissue,muscle tissue,mesenchymal stem cell,CL:0000134,normal,male;female,unknown,human adult stage,14148
+236,muscle tissue,muscle tissue,mesothelial cell,CL:0000077,normal,male;female,unknown,human adult stage,12
+237,muscle tissue,muscle tissue,pericyte cell,CL:0000669,normal,male;female,unknown,human adult stage,1794
+238,muscle tissue,muscle tissue,skeletal muscle satellite stem cell,CL:0008011,normal,male;female,unknown,human adult stage,4831
+239,muscle tissue,muscle tissue,slow muscle cell,CL:0000189,normal,male;female,unknown,human adult stage,163
+240,muscle tissue,muscle tissue,smooth muscle cell,CL:0000192,normal,male;female,unknown,human adult stage,58
+241,muscle tissue,muscle tissue,tendon cell,CL:0000388,normal,male;female,unknown,human adult stage,234
+242,pancreas,pancreas,B cell,CL:0000236,normal,male;female,unknown,human adult stage,144
+243,pancreas,pancreas,T cell,CL:0000084,normal,male;female,unknown,human adult stage,573
+244,pancreas,pancreas,endothelial cell,CL:0000115,normal,male;female,unknown,human adult stage,2100
+245,pancreas,pancreas,fibroblast,CL:0000057,normal,male,unknown,human adult stage,47
+246,pancreas,pancreas,mast cell,CL:0000097,normal,male;female,unknown,human adult stage,53
+247,pancreas,pancreas,mature NK T cell,CL:0000814,normal,male,unknown,human adult stage,47
+248,pancreas,pancreas,myeloid cell,CL:0000763,normal,male;female,unknown,human adult stage,1862
+249,pancreas,pancreas,pancreatic A cell,CL:0000171,normal,female,unknown,human adult stage,71
+250,pancreas,pancreas,pancreatic D cell,CL:0000173,normal,female,unknown,human adult stage,9
+251,pancreas,pancreas,pancreatic PP cell,CL:0002275,normal,female,unknown,human adult stage,71
+252,pancreas,pancreas,pancreatic acinar cell,CL:0002064,normal,male;female,unknown,human adult stage,5534
+253,pancreas,pancreas,pancreatic ductal cell,CL:0002079,normal,male;female,unknown,human adult stage,2431
+254,pancreas,pancreas,pancreatic stellate cell,CL:0002410,normal,male;female,unknown,human adult stage,393
+255,pancreas,pancreas,plasma cell,CL:0000786,normal,male,unknown,human adult stage,63
+256,pancreas,pancreas,type B pancreatic cell,CL:0000169,normal,male;female,unknown,human adult stage,99
+257,prostate,prostate gland,"CD8-positive, alpha-beta T cell",CL:0000625,normal,male,unknown,human adult stage,1081
+258,prostate,prostate gland,T cell,CL:0000084,normal,male,unknown,human adult stage,586
+259,prostate,prostate gland,basal cell of prostate epithelium,CL:0002341,normal,male,unknown,human adult stage,3298
+260,prostate,prostate gland,club cell,CL:0000158,normal,male,unknown,human adult stage,1078
+261,prostate,prostate gland,endothelial cell,CL:0000115,normal,male,unknown,human adult stage,585
+262,prostate,prostate gland,epithelial cell,CL:0000066,normal,male,unknown,human adult stage,6848
+263,prostate,prostate gland,erythroid progenitor cell,CL:0000038,normal,male,unknown,human adult stage,86
+264,prostate,prostate gland,fibroblast,CL:0000057,normal,male,unknown,human adult stage,223
+265,prostate,prostate gland,luminal cell of prostate epithelium,CL:0002340,normal,male,unknown,human adult stage,1092
+266,prostate,prostate gland,macrophage,CL:0000235,normal,male,unknown,human adult stage,317
+267,prostate,prostate gland,mast cell,CL:0000097,normal,male,unknown,human adult stage,9
+268,prostate,prostate gland,mature NK T cell,CL:0000814,normal,male,unknown,human adult stage,430
+269,prostate,prostate gland,monocyte,CL:0000576,normal,male,unknown,human adult stage,33
+270,prostate,prostate gland,myeloid cell,CL:0000763,normal,male,unknown,human adult stage,365
+271,prostate,prostate gland,neutrophil,CL:0000775,normal,male,unknown,human adult stage,16
+272,prostate,prostate gland,smooth muscle cell,CL:0000192,normal,male,unknown,human adult stage,285
+273,prostate,prostate gland,sperm,CL:0000019,normal,male,unknown,human adult stage,11
+274,prostate,prostate gland,stromal cell,CL:0000499,normal,male,unknown,human adult stage,32
+275,saliva-secreting gland,saliva-secreting gland,B cell,CL:0000236,normal,male;female,unknown,human adult stage,137
+276,saliva-secreting gland,saliva-secreting gland,CD4-positive helper T cell,CL:0000492,normal,male;female,unknown,human adult stage,1221
+277,saliva-secreting gland,saliva-secreting gland,"CD4-positive, alpha-beta T cell",CL:0000624,normal,female,unknown,human adult stage,182
+278,saliva-secreting gland,saliva-secreting gland,"CD8-positive, alpha-beta T cell",CL:0000625,normal,male;female,unknown,human adult stage,1979
+279,saliva-secreting gland,saliva-secreting gland,T cell,CL:0000084,normal,male;female,unknown,human adult stage,227
+280,saliva-secreting gland,saliva-secreting gland,acinar cell of salivary gland,CL:0002623,normal,male;female,unknown,human adult stage,10147
+281,saliva-secreting gland,saliva-secreting gland,adventitial cell,CL:0002503,normal,male;female,unknown,human adult stage,442
+282,saliva-secreting gland,saliva-secreting gland,basal cell,CL:0000646,normal,male;female,unknown,human adult stage,922
+283,saliva-secreting gland,saliva-secreting gland,duct epithelial cell,CL:0000068,normal,male;female,unknown,human adult stage,1693
+284,saliva-secreting gland,saliva-secreting gland,endothelial cell,CL:0000115,normal,male;female,unknown,human adult stage,323
+285,saliva-secreting gland,saliva-secreting gland,endothelial cell of lymphatic vessel,CL:0002138,normal,male;female,unknown,human adult stage,320
+286,saliva-secreting gland,saliva-secreting gland,fibroblast,CL:0000057,normal,male;female,unknown,human adult stage,2169
+287,saliva-secreting gland,saliva-secreting gland,ionocyte,CL:0005006,normal,male,unknown,human adult stage,87
+288,saliva-secreting gland,saliva-secreting gland,macrophage,CL:0000235,normal,male,unknown,human adult stage,1761
+289,saliva-secreting gland,saliva-secreting gland,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,317
+290,saliva-secreting gland,saliva-secreting gland,memory B cell,CL:0000787,normal,male;female,unknown,human adult stage,2879
+291,saliva-secreting gland,saliva-secreting gland,monocyte,CL:0000576,normal,male;female,unknown,human adult stage,426
+292,saliva-secreting gland,saliva-secreting gland,myoepithelial cell,CL:0000185,normal,male;female,unknown,human adult stage,196
+293,saliva-secreting gland,saliva-secreting gland,naive B cell,CL:0000788,normal,female,unknown,human adult stage,1120
+294,saliva-secreting gland,saliva-secreting gland,neutrophil,CL:0000775,normal,male;female,unknown,human adult stage,115
+295,saliva-secreting gland,saliva-secreting gland,pericyte cell,CL:0000669,normal,male;female,unknown,human adult stage,146
+296,saliva-secreting gland,saliva-secreting gland,plasma cell,CL:0000786,normal,male;female,unknown,human adult stage,345
+297,saliva-secreting gland,saliva-secreting gland,salivary gland cell,CL:0009005,normal,male,unknown,human adult stage,45
+298,skin,skin of body,CD141-positive myeloid dendritic cell,CL:0002394,normal,male,unknown,human adult stage,17
+299,skin,skin of body,CD1c-positive myeloid dendritic cell,CL:0002399,normal,male,unknown,human adult stage,165
+300,skin,skin of body,CD4-positive helper T cell,CL:0000492,normal,male,unknown,human adult stage,59
+301,skin,skin of body,"CD4-positive, alpha-beta memory T cell",CL:0000897,normal,male,unknown,human adult stage,339
+302,skin,skin of body,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,normal,male,unknown,human adult stage,129
+303,skin,skin of body,"CD8-positive, alpha-beta memory T cell",CL:0000909,normal,male,unknown,human adult stage,857
+304,skin,skin of body,Langerhans cell,CL:0000453,normal,male,unknown,human adult stage,36
+305,skin,skin of body,T cell,CL:0000084,normal,male,unknown,human adult stage,519
+306,skin,skin of body,cell of skeletal muscle,CL:0000188,normal,male,unknown,human adult stage,10
+307,skin,skin of body,endothelial cell,CL:0000115,normal,male,unknown,human adult stage,1309
+308,skin,skin of body,epithelial cell,CL:0000066,normal,male,unknown,human adult stage,106
+309,skin,skin of body,macrophage,CL:0000235,normal,male,unknown,human adult stage,846
+310,skin,skin of body,mast cell,CL:0000097,normal,male,unknown,human adult stage,645
+311,skin,skin of body,mature NK T cell,CL:0000814,normal,male,unknown,human adult stage,605
+312,skin,skin of body,melanocyte,CL:0000148,normal,male,unknown,human adult stage,64
+313,skin,skin of body,memory B cell,CL:0000787,normal,male,unknown,human adult stage,9
+314,skin,skin of body,muscle cell,CL:0000187,normal,male,unknown,human adult stage,437
+315,skin,skin of body,naive B cell,CL:0000788,normal,male,unknown,human adult stage,7
+316,skin,skin of body,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,normal,male,unknown,human adult stage,71
+317,skin,skin of body,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,normal,male,unknown,human adult stage,88
+318,skin,skin of body,plasma cell,CL:0000786,normal,male,unknown,human adult stage,24
+319,skin,skin of body,regulatory T cell,CL:0000815,normal,male,unknown,human adult stage,126
+320,skin,skin of body,smooth muscle cell,CL:0000192,normal,male,unknown,human adult stage,13
+321,skin,skin of body,stromal cell,CL:0000499,normal,male,unknown,human adult stage,2943
+322,small intestine,small intestine,B cell,CL:0000236,normal,male;female,unknown,human adult stage,519
+323,small intestine,small intestine,"CD4-positive, alpha-beta T cell",CL:0000624,normal,male,unknown,human adult stage,5257
+324,small intestine,small intestine,"CD8-positive, alpha-beta T cell",CL:0000625,normal,male;female,unknown,human adult stage,2323
+325,small intestine,small intestine,duodenum glandular cell,CL:1001589,normal,female,unknown,human adult stage,44
+326,small intestine,small intestine,enterocyte,CL:0000584,normal,female,unknown,human adult stage,942
+327,small intestine,small intestine,enterocyte of epithelium of small intestine,CL:1000334,normal,male,unknown,human adult stage,1100
+328,small intestine,small intestine,fibroblast,CL:0000057,normal,male;female,unknown,human adult stage,113
+329,small intestine,small intestine,goblet cell,CL:0000160,normal,female,unknown,human adult stage,61
+330,small intestine,small intestine,gut endothelial cell,CL:0000131,normal,male;female,unknown,human adult stage,46
+331,small intestine,small intestine,intestinal crypt stem cell,CL:0002250,normal,female,unknown,human adult stage,102
+332,small intestine,small intestine,intestinal crypt stem cell of small intestine,CL:0009017,normal,male,unknown,human adult stage,71
+333,small intestine,small intestine,intestinal enteroendocrine cell,CL:1001516,normal,male;female,unknown,human adult stage,58
+334,small intestine,small intestine,intestinal tuft cell,CL:0019032,normal,male;female,unknown,human adult stage,160
+335,small intestine,small intestine,mast cell,CL:0000097,normal,male,unknown,human adult stage,65
+336,small intestine,small intestine,monocyte,CL:0000576,normal,male,unknown,human adult stage,61
+337,small intestine,small intestine,neutrophil,CL:0000775,normal,male;female,unknown,human adult stage,68
+338,small intestine,small intestine,paneth cell of epithelium of small intestine,CL:1000343,normal,male;female,unknown,human adult stage,647
+339,small intestine,small intestine,plasma cell,CL:0000786,normal,male,unknown,human adult stage,303
+340,small intestine,small intestine,small intestine goblet cell,CL:1000495,normal,male,unknown,human adult stage,300
+341,small intestine,small intestine,transit amplifying cell of small intestine,CL:0009012,normal,male;female,unknown,human adult stage,227
+342,spleen,spleen,CD141-positive myeloid dendritic cell,CL:0002394,normal,male;female,unknown,human adult stage,51
+343,spleen,spleen,CD1c-positive myeloid dendritic cell,CL:0002399,normal,male;female,unknown,human adult stage,51
+344,spleen,spleen,"CD4-positive, alpha-beta memory T cell",CL:0000897,normal,male;female,unknown,human adult stage,1771
+345,spleen,spleen,"CD8-positive, alpha-beta T cell",CL:0000625,normal,female,unknown,human adult stage,43
+346,spleen,spleen,"CD8-positive, alpha-beta memory T cell",CL:0000909,normal,male;female,unknown,human adult stage,4301
+347,spleen,spleen,classical monocyte,CL:0000860,normal,male;female,unknown,human adult stage,4443
+348,spleen,spleen,endothelial cell,CL:0000115,normal,male;female,unknown,human adult stage,596
+349,spleen,spleen,erythrocyte,CL:0000232,normal,male;female,unknown,human adult stage,170
+350,spleen,spleen,hematopoietic stem cell,CL:0000037,normal,male;female,unknown,human adult stage,73
+351,spleen,spleen,innate lymphoid cell,CL:0001065,normal,male;female,unknown,human adult stage,117
+352,spleen,spleen,intermediate monocyte,CL:0002393,normal,male;female,unknown,human adult stage,131
+353,spleen,spleen,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,1335
+354,spleen,spleen,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,2439
+355,spleen,spleen,memory B cell,CL:0000787,normal,male;female,unknown,human adult stage,6460
+356,spleen,spleen,naive B cell,CL:0000788,normal,male;female,unknown,human adult stage,1044
+357,spleen,spleen,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,normal,male;female,unknown,human adult stage,1261
+358,spleen,spleen,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,normal,male;female,unknown,human adult stage,610
+359,spleen,spleen,neutrophil,CL:0000775,normal,male;female,unknown,human adult stage,4539
+360,spleen,spleen,plasma cell,CL:0000786,normal,male;female,unknown,human adult stage,3171
+361,spleen,spleen,plasmacytoid dendritic cell,CL:0000784,normal,male;female,unknown,human adult stage,43
+362,spleen,spleen,platelet,CL:0000233,normal,male;female,unknown,human adult stage,29
+363,spleen,spleen,regulatory T cell,CL:0000815,normal,male;female,unknown,human adult stage,288
+364,spleen,spleen,type I NK T cell,CL:0000921,normal,male;female,unknown,human adult stage,1038
+365,thymus,thymus,B cell,CL:0000236,normal,male,unknown,human adult stage,1919
+366,thymus,thymus,CD4-positive helper T cell,CL:0000492,normal,male;female,unknown,human adult stage,7611
+367,thymus,thymus,"CD8-positive, alpha-beta T cell",CL:0000625,normal,female,unknown,human adult stage,349
+368,thymus,thymus,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,normal,male,unknown,human adult stage,501
+369,thymus,thymus,DN1 thymic pro-T cell,CL:0000894,normal,male,unknown,human adult stage,985
+370,thymus,thymus,DN3 thymocyte,CL:0000807,normal,male,unknown,human adult stage,1788
+371,thymus,thymus,DN4 thymocyte,CL:0000808,normal,male,unknown,human adult stage,32
+372,thymus,thymus,T follicular helper cell,CL:0002038,normal,male,unknown,human adult stage,398
+373,thymus,thymus,capillary endothelial cell,CL:0002144,normal,male;female,unknown,human adult stage,1362
+374,thymus,thymus,dendritic cell,CL:0000451,normal,female,unknown,human adult stage,35
+375,thymus,thymus,endothelial cell of artery,CL:1000413,normal,male;female,unknown,human adult stage,536
+376,thymus,thymus,endothelial cell of lymphatic vessel,CL:0002138,normal,male;female,unknown,human adult stage,271
+377,thymus,thymus,erythrocyte,CL:0000232,normal,male;female,unknown,human adult stage,47
+378,thymus,thymus,fast muscle cell,CL:0000190,normal,female,unknown,human adult stage,86
+379,thymus,thymus,fibroblast,CL:0000057,normal,male;female,unknown,human adult stage,3924
+380,thymus,thymus,immature natural killer cell,CL:0000823,normal,female,unknown,human adult stage,44
+381,thymus,thymus,innate lymphoid cell,CL:0001065,normal,male,unknown,human adult stage,2594
+382,thymus,thymus,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,461
+383,thymus,thymus,mast cell,CL:0000097,normal,female,unknown,human adult stage,11
+384,thymus,thymus,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,274
+385,thymus,thymus,medullary thymic epithelial cell,CL:0002365,normal,male;female,unknown,human adult stage,166
+386,thymus,thymus,memory B cell,CL:0000787,normal,female,unknown,human adult stage,1845
+387,thymus,thymus,mesothelial cell,CL:0000077,normal,female,unknown,human adult stage,12
+388,thymus,thymus,monocyte,CL:0000576,normal,male;female,unknown,human adult stage,434
+389,thymus,thymus,myeloid dendritic cell,CL:0000782,normal,male,unknown,human adult stage,3
+390,thymus,thymus,naive B cell,CL:0000788,normal,female,unknown,human adult stage,874
+391,thymus,thymus,naive regulatory T cell,CL:0002677,normal,male,unknown,human adult stage,761
+392,thymus,thymus,plasma cell,CL:0000786,normal,male;female,unknown,human adult stage,1554
+393,thymus,thymus,thymocyte,CL:0000893,normal,female,unknown,human adult stage,553
+394,thymus,thymus,vascular associated smooth muscle cell,CL:0000359,normal,male;female,unknown,human adult stage,2130
+395,thymus,thymus,vein endothelial cell,CL:0002543,normal,male;female,unknown,human adult stage,2104
+396,tongue,tongue,Schwann cell,CL:0002573,normal,male,unknown,human adult stage,10
+397,tongue,tongue,basal cell,CL:0000646,normal,male;female,unknown,human adult stage,6281
+398,tongue,tongue,capillary endothelial cell,CL:0002144,normal,male;female,unknown,human adult stage,101
+399,tongue,tongue,endothelial cell of artery,CL:1000413,normal,male;female,unknown,human adult stage,40
+400,tongue,tongue,endothelial cell of lymphatic vessel,CL:0002138,normal,male;female,unknown,human adult stage,44
+401,tongue,tongue,epithelial cell,CL:0000066,normal,female,unknown,human adult stage,2114
+402,tongue,tongue,fibroblast,CL:0000057,normal,male;female,unknown,human adult stage,251
+403,tongue,tongue,keratinocyte,CL:0000312,normal,male;female,unknown,human adult stage,3667
+404,tongue,tongue,leukocyte,CL:0000738,normal,male;female,unknown,human adult stage,2109
+405,tongue,tongue,pericyte cell,CL:0000669,normal,male;female,unknown,human adult stage,117
+406,tongue,tongue,tongue muscle cell,CL:0002673,normal,male;female,unknown,human adult stage,60
+407,tongue,tongue,vein endothelial cell,CL:0002543,normal,male;female,unknown,human adult stage,226
+408,respiratory system,trachea,B cell,CL:0000236,normal,male,unknown,human adult stage,462
+409,respiratory system,trachea,"CD4-positive, alpha-beta T cell",CL:0000624,normal,male,unknown,human adult stage,65
+410,respiratory system,trachea,"CD8-positive, alpha-beta T cell",CL:0000625,normal,male,unknown,human adult stage,464
+411,respiratory system,trachea,T cell,CL:0000084,normal,male,unknown,human adult stage,131
+412,respiratory system,trachea,basal cell,CL:0000646,normal,male;female,unknown,human adult stage,4198
+413,respiratory system,trachea,ciliated cell,CL:0000064,normal,male;female,unknown,human adult stage,317
+414,respiratory system,trachea,connective tissue cell,CL:0002320,normal,female,unknown,human adult stage,249
+415,respiratory system,trachea,"double-positive, alpha-beta thymocyte",CL:0000809,normal,male,unknown,human adult stage,6
+416,respiratory system,trachea,endothelial cell,CL:0000115,normal,male;female,unknown,human adult stage,257
+417,respiratory system,trachea,fibroblast,CL:0000057,normal,male,unknown,human adult stage,1239
+418,respiratory system,trachea,goblet cell,CL:0000160,normal,female,unknown,human adult stage,84
+419,respiratory system,trachea,ionocyte,CL:0005006,normal,male,unknown,human adult stage,13
+420,respiratory system,trachea,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,541
+421,respiratory system,trachea,mast cell,CL:0000097,normal,male,unknown,human adult stage,69
+422,respiratory system,trachea,mucus secreting cell,CL:0000319,normal,male,unknown,human adult stage,64
+423,respiratory system,trachea,neutrophil,CL:0000775,normal,male,unknown,human adult stage,758
+424,respiratory system,trachea,plasma cell,CL:0000786,normal,male;female,unknown,human adult stage,138
+425,respiratory system,trachea,secretory cell,CL:0000151,normal,male;female,unknown,human adult stage,253
+426,respiratory system,trachea,serous cell of epithelium of trachea,CL:1000330,normal,male,unknown,human adult stage,41
+427,respiratory system,trachea,smooth muscle cell,CL:0000192,normal,male,unknown,human adult stage,96
+428,respiratory system,trachea,tracheal goblet cell,CL:1000329,normal,male,unknown,human adult stage,77
+429,uterus,uterus,B cell,CL:0000236,normal,female,unknown,human adult stage,10
+430,uterus,uterus,T cell,CL:0000084,normal,female,unknown,human adult stage,546
+431,uterus,uterus,ciliated epithelial cell,CL:0000067,normal,female,unknown,human adult stage,31
+432,uterus,uterus,endothelial cell,CL:0000115,normal,female,unknown,human adult stage,2077
+433,uterus,uterus,endothelial cell of lymphatic vessel,CL:0002138,normal,female,unknown,human adult stage,86
+434,uterus,uterus,epithelial cell,CL:0000066,normal,female,unknown,human adult stage,68
+435,uterus,uterus,epithelial cell of uterus,CL:0002149,normal,female,unknown,human adult stage,194
+436,uterus,uterus,fibroblast,CL:0000057,normal,female,unknown,human adult stage,3014
+437,uterus,uterus,leukocyte,CL:0000738,normal,female,unknown,human adult stage,17
+438,uterus,uterus,macrophage,CL:0000235,normal,female,unknown,human adult stage,344
+439,uterus,uterus,mature NK T cell,CL:0000814,normal,female,unknown,human adult stage,53
+440,uterus,uterus,myometrial cell,CL:0002366,normal,female,unknown,human adult stage,199
+441,uterus,uterus,pericyte cell,CL:0000669,normal,female,unknown,human adult stage,95
+442,uterus,uterus,vascular associated smooth muscle cell,CL:0000359,normal,female,unknown,human adult stage,390
+443,vasculature,vasculature,B cell,CL:0000236,normal,male;female,unknown,human adult stage,21
+444,vasculature,vasculature,T cell,CL:0000084,normal,male;female,unknown,human adult stage,476
+445,vasculature,vasculature,capillary endothelial cell,CL:0002144,normal,male,unknown,human adult stage,1034
+446,vasculature,vasculature,endothelial cell,CL:0000115,normal,male;female,unknown,human adult stage,1564
+447,vasculature,vasculature,endothelial cell of artery,CL:1000413,normal,male,unknown,human adult stage,138
+448,vasculature,vasculature,endothelial cell of lymphatic vessel,CL:0002138,normal,male,unknown,human adult stage,44
+449,vasculature,vasculature,epithelial cell,CL:0000066,normal,female,unknown,human adult stage,26
+450,vasculature,vasculature,erythrocyte,CL:0000232,normal,male;female,unknown,human adult stage,64
+451,vasculature,vasculature,fibroblast,CL:0000057,normal,male;female,unknown,human adult stage,5867
+452,vasculature,vasculature,macrophage,CL:0000235,normal,male;female,unknown,human adult stage,3301
+453,vasculature,vasculature,mast cell,CL:0000097,normal,male;female,unknown,human adult stage,105
+454,vasculature,vasculature,mature NK T cell,CL:0000814,normal,male;female,unknown,human adult stage,121
+455,vasculature,vasculature,pericyte cell,CL:0000669,normal,male;female,unknown,human adult stage,1193
+456,vasculature,vasculature,plasma cell,CL:0000786,normal,male;female,unknown,human adult stage,42
+457,vasculature,vasculature,smooth muscle cell,CL:0000192,normal,male;female,unknown,human adult stage,3075
